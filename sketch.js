@@ -17,7 +17,7 @@ function setup() {
 
 	bullet.velocityX = speed;
 
-	bullet.shapeColor=color(white);
+	bullet.shapeColor="white";
 
 
   
